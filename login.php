@@ -14,7 +14,7 @@
 </head>
 <body>
 <div class ="box-log">
-	<h1 class= "title">Login Akun</h1>
+	<h1 class= "title">Login jjjjjAkun</h1>
 	<form action="cek-login.php" method="post">
 		<table class= "khusus">
 			<tr>
