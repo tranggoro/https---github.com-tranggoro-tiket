@@ -1,5 +1,5 @@
 <?php
-	$conn = mysqli_connect('localhost', 'root', '','tiket');
+	$conn = mysqli_connect('localhost', 'root', '1927','tiket');
 
 	session_start();
 
